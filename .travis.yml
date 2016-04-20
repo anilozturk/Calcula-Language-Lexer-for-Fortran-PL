@@ -1,7 +1,5 @@
 language: c
 
-install: make get-deps
-
 script: scons
 
 compiler:
